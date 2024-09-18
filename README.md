@@ -15,6 +15,7 @@ Dependencies: Key libraries include nltk, tensorflow, tflearn, and numpy.
 Install the required dependencies:
 
 pip install nltk tensorflow tflearn numpy
+
 Load the notebook (ChatBot_using_Neural_Network.ipynb) and execute the cells in order.
 
 Modify the intents.json file to add new intents or update existing ones.
