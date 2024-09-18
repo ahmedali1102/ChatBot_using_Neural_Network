@@ -24,5 +24,7 @@ Train the model by running the training cells, and test the chatbot interactivel
 
 # Future Work
 Add more intents to improve chatbot capabilities.
+
 Implement additional NLP techniques for improved accuracy.
+
 Integrate with a web-based or messaging interface for live deployment.
